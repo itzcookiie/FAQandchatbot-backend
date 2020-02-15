@@ -1,0 +1,54 @@
+[
+    {
+        "category": "Delivery",
+        "questionsAndAnswers": [
+            {
+                "question": "How long will my delivery take",
+                "answer": "Average delivery times are 3 - 5 days"
+            },
+            {
+                "question": "My item/parcel has not yet arrived",
+                "answer": "Literally it does not mean anything. It is a sequence of words without a sense of Latin derivation that make up a text also known as filler text, fictitious, blind or placeholder"
+            }
+        ]
+    },
+    {
+        "category": "Order",
+        "questionsAndAnswers": [
+            {
+                "question": "I received the wrong item",
+                "answer": "Literally it does not mean anything. It is a sequence of words without a sense of Latin derivation that make up a text also known as filler text, fictitious, blind or placeholder"
+            },
+            {
+                "question": "Where is my order",
+                "answer": "Literally it does not mean anything. It is a sequence of words without a sense of Latin derivation that make up a text also known as filler text, fictitious, blind or placeholder"
+            }
+        ]
+    },
+    {
+        "category": "Discounts & Promos",
+        "questionsAndAnswers": [
+            {
+                "question": "Can I use my voucher online",
+                "answer": "Literally it does not mean anything. It is a sequence of words without a sense of Latin derivation that make up a text also known as filler text, fictitious, blind or placeholder"
+            },
+            {
+                "question": "How long does a voucher last for",
+                "answer": "Literally it does not mean anything. It is a sequence of words without a sense of Latin derivation that make up a text also known as filler text, fictitious, blind or placeholder"
+            }
+        ]
+    },
+    {
+        "category": "Returns & Refunds",
+        "questionsAndAnswers": [
+            {
+                "question": "I would like to return an item I purchased",
+                "answer": "Literally it does not mean anything. It is a sequence of words without a sense of Latin derivation that make up a text also known as filler text, fictitious, blind or placeholder"
+            },
+            {
+                "question": "Have you received my returned item",
+                "answer": "Literally it does not mean anything. It is a sequence of words without a sense of Latin derivation that make up a text also known as filler text, fictitious, blind or placeholder"
+            }
+        ]
+    }
+]
