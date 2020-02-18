@@ -1,0 +1,45 @@
+[
+    {
+        "action": "intro",
+        "response": {
+            "message": "Hi! My name is ANDy. What can I help with?"
+        }
+    },
+    {
+        "action": "findQuestions",
+        "response": {
+            "message":"Cool! What would you like to know?"
+        }
+    },
+    {
+        "action": "findAnswer",
+        "response": {
+            "message": "Answer is..."
+        }
+    },
+    {
+        "action": "askMore",
+        "response": {
+            "message": "I hope that answers your question. Anything else I can help with?"
+        }
+    },
+    {
+        "action": "help",
+        "response": {
+            "message": "Awesome! What else would you like to know?"
+        }
+    },
+    {
+        "action": "other",
+        "response": {
+            "message": "I'll have to get customer support. Here is the number"
+        }
+    },
+    {
+        "action": "finish",
+        "response": {
+            "message": "Glad I could help. Have a good day!"
+        }
+    }
+    
+]

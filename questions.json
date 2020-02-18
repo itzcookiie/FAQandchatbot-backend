@@ -26,7 +26,7 @@
         ]
     },
     {
-        "category": "Discounts & Promos",
+        "category": "Discounts",
         "questionsAndAnswers": [
             {
                 "question": "Can I use my voucher online",
@@ -39,7 +39,7 @@
         ]
     },
     {
-        "category": "Returns & Refunds",
+        "category": "Returns",
         "questionsAndAnswers": [
             {
                 "question": "I would like to return an item I purchased",
